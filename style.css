@@ -1,0 +1,89 @@
+.g{
+    width: 30%;
+    height: auto !important;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    float: left;
+} 
+.hover:hover{
+    color: black !important;
+}
+
+.hover{
+    color: black !important;
+}
+
+.hov:hover{
+    background-color: red !important;
+}
+
+.btn-outline-success{
+    border-color: red !important;
+}
+
+body{
+    background-color: rgb(4, 248, 204 ) !important;
+}
+
+.fot{
+    background-color: white !important;
+    margin: 50px;
+  
+}
+.foto{
+    background-color: white !important;
+    margin: 50px;
+}
+
+.wes{
+    padding: 74px !important;
+    padding-left: 0px !important;
+}
+
+.es{
+    padding: 86px
+}
+
+.s{
+    padding: 90px;
+}
+
+.a{
+    padding: 10px;
+}
+
+
+.ad{
+    padding: 36px !important;
+}
+.n{
+    padding: 52px;
+} 
+.sea{
+    padding: 39px;
+}
+
+.c{
+    padding: 15px;
+}
+
+.z{
+    padding: 50px;
+}
+
+.ins{
+    padding: 5px !important;
+    padding-left: 10px !important;
+}
+
+/* 
+.b:hover{
+background-color: red !important;
+}
+
+.bu:hover{
+    background-color: rgb(21, 255, 0) !important;
+    } 
+*/
